@@ -1,0 +1,24 @@
+
+ Average Hops = 0.62   TotalHops = 31    Noof_Nodes = 10    NumRequests = 5  
+
+ Average Hops = 0.96   TotalHops = 96    Noof_Nodes = 20    NumRequests = 5  
+
+ Average Hops = 1.8228   TotalHops = 4557    Noof_Nodes = 50    NumRequests = 50  
+
+ Average Hops = 2.464   TotalHops = 12320    Noof_Nodes = 100    NumRequests = 50  
+
+ Average Hops = 2.7483   TotalHops = 27483    Noof_Nodes = 200    NumRequests = 50  
+
+ Average Hops = 3.47686   TotalHops = 173843    Noof_Nodes = 500    NumRequests = 100  
+
+ Average Hops = 3.97354   TotalHops = 397354    Noof_Nodes = 1000    NumRequests = 100  
+
+ Average Hops = 4.475115   TotalHops = 895023    Noof_Nodes = 2000    NumRequests = 100  
+
+ Average Hops = 4.98005   TotalHops = 1992020    Noof_Nodes = 4000    NumRequests = 100  
+
+ Average Hops = 5.04019   TotalHops = 2520095    Noof_Nodes = 5000    NumRequests = 100  
+
+ Average Hops = 0.85   TotalHops = 17    Noof_Nodes = 10    NumRequests = 2  
+
+ Average Hops = 5.180938333333334   TotalHops = 3108563    Noof_Nodes = 6000    NumRequests = 100  
